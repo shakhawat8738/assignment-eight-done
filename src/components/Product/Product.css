@@ -1,0 +1,6 @@
+.container {
+  display: grid;
+}
+.card-footer {
+  background-color: black;
+}
